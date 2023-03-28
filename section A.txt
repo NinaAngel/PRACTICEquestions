@@ -1,0 +1,20 @@
+Number 1 ;  B
+
+Number 2;    C
+
+Number 3;   D
+
+Number 4;   C
+
+Number 5;  C 
+
+Number 6;  C
+
+Number 7;  B
+
+Number 8;  D
+
+Number 9; B
+
+Number 10; C
+
